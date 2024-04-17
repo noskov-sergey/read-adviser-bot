@@ -10,7 +10,7 @@
 
 Клонируйте репозиторий:
 
-`git clone git@github.com:noskov-sergey/read-adviser-bot`
+```git clone git@github.com:noskov-sergey/read-adviser-bot```
 
 Запустите проект, в тег -tg-token необходимо передать токен канала
 
