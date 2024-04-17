@@ -16,4 +16,6 @@
 
 Запустите проект, в тег -tg-token необходимо передать токен канала
 
-`go run examples/backtesting/main.go -tg-token=X1X2X3X4X:AAAAAAAAA`
+```
+go run examples/backtesting/main.go -tg-token=X1X2X3X4X:AAAAAAAAA
+```
